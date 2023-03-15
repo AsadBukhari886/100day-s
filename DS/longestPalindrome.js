@@ -20,4 +20,4 @@ function longestPalindrome(s) {
 }
 
 const get = longestPalindrome("babcb")
-console.log(get)
+// console.log(get)
