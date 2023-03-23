@@ -31,7 +31,7 @@ class linkList {
     print() {
         let current = this.head;
         while (current) {
-            console.log(current.value);
+            // console.log(current.value);
             current = current.next;
         }
     }
