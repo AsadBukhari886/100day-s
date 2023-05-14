@@ -13,7 +13,7 @@ var productExceptSelf = function(nums) {
         // If there is at least one zero element in the array, push 0 to the answer array
         answer.push(0);
       } else {
-        // Otherwise, calculate the product of all elements except the current element
+        // Otherwise,,, calculate the product of all elements except the current element
         answer.push(nonZeroProduct / nums[i]);
       }
     }
