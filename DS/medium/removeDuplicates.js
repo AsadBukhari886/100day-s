@@ -5,7 +5,7 @@ var removeDuplicates = function (nums) {
     // return uniqueArr;
     // const fset = new Set(nums);
     //   const uniqueArr = Array.from(fset);
-    //   return uniqueArr.map(Number);
+    //  here return uniqueArr.map(Number) ;  
     if (nums.length === 0) {
         return 0;
     }
